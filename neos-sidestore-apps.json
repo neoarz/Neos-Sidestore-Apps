@@ -51,10 +51,8 @@
       "tintColor": "#45b6fe",
       "size": 7522792,
       "screenshotURLs": [
-        "https://enmity-mod.github.io/repo/screenshots_iphone/chat.png",
-        "https://enmity-mod.github.io/repo/screenshots_iphone/plugins.png",
-        "https://enmity-mod.github.io/repo/screenshots_iphone/profile.png",
-        "https://enmity-mod.github.io/repo/screenshots_iphone/settings.png"
+        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Esign1.PNG",
+        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Esign2.PNG"
       ],
       "subtitle": "Sideloading Made Easy",
       "absoluteVersion": "5.0.2",
@@ -64,7 +62,7 @@
           "version": "254.0",
           "date": "2024-10-11",
           "downloadURL": "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/ESign.ipa",
-          "localizedDescription": "Update Discord to 254.0",
+          "localizedDescription": "Update ESign to 5.0.2",
           "size": 101165891,
           "absoluteVersion": "5.0.2"
         }
