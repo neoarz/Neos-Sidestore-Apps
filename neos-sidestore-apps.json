@@ -70,34 +70,38 @@
     },
     {
       "name": "Feather",
-      "bundleIdentifier": "org.brandonplank.flappybird",
-      "developerName": "Brandon Plank",
-      "subtitle": "A revival of the once popular game.",
-      "version": "4.3",
-      "versionDate": "2022-06-14T20:54:11Z",
-      "versionDescription": "# 4.3\n\n**Full Changelog**: https://github.com/crypticplank/flappybird/compare/4.2.0...4.3\r\n* Removed Leaderboard\r\n* Removed Accounts\r\n* Removed Anti-Cheat",
-      "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
-      "localizedDescription": "This Flappy Bird is a revival of the original Flappy Bird by Dong Nguyen. There are a many new features to enhance gameplay as well!\n\n\u2022 Tap to flap\n\u2022 Avoid the hitting the pipes\n\u2022 Flap for infinity!",
-      "iconURL": "https://i.imgur.com/tIUJeSs.png",
-      "tintColor": "#49cc48",
-      "size": 2099365,
+      "bundleIdentifier": "kh.crysalis.feather",
+      "developerName": "Samara",
+      "subtitle": "Sideloading Made Easy",
+      "version": "1.1.3",
+      "versionDate": "2024-11-02",
+      "versionDescription": "Fix incorrect handling of default options",
+      "downloadURL": "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Feather.ipa",
+      "localizedDescription": "Feather is a free on-device iOS application manager/installer, using certificates part of the Apple Developer Program",
+      "iconURL": "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Icons/Feather.png",
+      "tintColor": "#ec7699",
+      "size": 12496896,
       "screenshotURLs": [
-        "https://i.imgur.com/nIq1VVv.png",
-        "https://i.imgur.com/TZBdg7M.png",
-        "https://i.imgur.com/41u9JUh.png"
+        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Feather1.png",
+        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Feather2.png",
+        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Feather3.png",
+        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Feather4.png"
       ],
-      "absoluteVersion": "4.3",
+      "subtitle": "Sideloading Made Easy",
+      "absoluteVersion": "1.1.3",
+      "appID": "kh.crysalis.feather",
       "versions": [
         {
-          "version": "4.3",
-          "date": "2022-06-14T20:54:11Z",
-          "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
-          "localizedDescription": "# 4.3\n\n**Full Changelog**: https://github.com/crypticplank/flappybird/compare/4.2.0...4.3\r\n* Removed Leaderboard\r\n* Removed Accounts\r\n* Removed Anti-Cheat",
-          "size": 2099365,
-          "absoluteVersion": "4.3"
+          "version": "1.1.3",
+          "date": "2024-11-02",
+          "downloadURL": "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Feather.ipa",
+          "localizedDescription": "Update Feather to 1.1.3",
+          "size": 12496896,
+          "absoluteVersion": "1.1.3"
         }
       ]
     },
+      
     {
       "bundleIdentifier": "app.ish.iSH",
       "name": "iSH",
