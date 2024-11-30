@@ -21,8 +21,8 @@
 
    ### All Downloads: *(11-29-2024)*
    
-    | App Name* | Download Link |
-    |:---------|---------------------------|
+    | App Name | Download Link |
+    |:------------------|-------------------------------------|
     | Discord | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Discord.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Discord.ipa) |
     | E-sign | [https://github.com/neoarz/Neos-Apps/raw/main/assets/ESign.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/ESign.ipa) |
     | Feather | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Feather.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Feather.ipa) |
