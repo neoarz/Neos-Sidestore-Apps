@@ -18,6 +18,16 @@
 
 - **Resources:** All files can be found in **Assets** folder. Some apps may be in a lower version than the current app store version due to technical issues. An example of this is **Instagram** which is on a lower version due to the newer versions having a bug where you would get logged out everytime you close the app.
 
- ### Known reposters: *(12-12-2023)*
 
-
+   ### All Downloads: *(11-29-2024)*
+   
+    | App Name* | Download Link |
+    |:---------|---------------------------|
+    | Discord | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Discord.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Discord.ipa) |
+    | E-sign | [https://github.com/neoarz/Neos-Apps/raw/main/assets/ESign.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/ESign.ipa) |
+    | Feather | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Feather.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Feather.ipa) |
+    | Instagram | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Instgram.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Instgram.ipa) |
+    | SparseBox | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Sparsebox.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Sparsebox.ipa) |
+    | Spotify | [\https://github.com/neoarz/Neos-Apps/raw/main/assets/Spotify.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Spotify.ipa) |
+    | Youtube | [https://github.com/neoarz/Neos-Apps/raw/main/assets/YouTube.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/YouTube.ipa) |
+  
