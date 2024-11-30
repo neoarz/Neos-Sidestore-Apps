@@ -28,6 +28,6 @@
     | Feather | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Feather.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Feather.ipa) |
     | Instagram | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Instgram.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Instgram.ipa) |
     | SparseBox | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Sparsebox.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Sparsebox.ipa) |
-    | Spotify | [\https://github.com/neoarz/Neos-Apps/raw/main/assets/Spotify.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Spotify.ipa) |
+    | Spotify | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Spotify.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Spotify.ipa) |
     | Youtube | [https://github.com/neoarz/Neos-Apps/raw/main/assets/YouTube.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/YouTube.ipa) |
   
