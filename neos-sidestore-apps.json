@@ -18,10 +18,10 @@
       "tintColor": "#6D00FF",
       "size": 101165891,
       "screenshotURLs": [
-        "https://enmity-mod.github.io/repo/screenshots_iphone/chat.png",
-        "https://enmity-mod.github.io/repo/screenshots_iphone/plugins.png",
-        "https://enmity-mod.github.io/repo/screenshots_iphone/profile.png",
-        "https://enmity-mod.github.io/repo/screenshots_iphone/settings.png"
+        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Discord1.png",
+        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Discord2.png",
+        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Discord3.png",
+        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Discord4.png"
       ],
       "subtitle": "The Power of addons, all in your hand",
       "absoluteVersion": "254.0",
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Flappy Bird",
+      "name": "Feather",
       "bundleIdentifier": "org.brandonplank.flappybird",
       "developerName": "Brandon Plank",
       "subtitle": "A revival of the once popular game.",
