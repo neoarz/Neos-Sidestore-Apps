@@ -19,7 +19,7 @@ In addtion, most, if not all apps, are made for higher ios versions **17.0+** du
 
 - **Resources:** All files and can be found in **Assets** folder. Other than that I have listed the apps down below as well so it is easier to find. Feel free to **CMD + F** to search for the app you are looking for. 
 
-- **Disclaimer:** Some apps may be in a lower version than the current app store version due to technical issues. An example of this is **Instagram**, which is on a lower version due to the newer versions having a bug where you would get logged out everytime you close the app.
+- **Disclaimer:** Some apps may be in a lower version than the current app store version due to technical issues. An example of this is **Instagram**, which is on a lower version due to the newer versions having a bug where you get logged out everytime you close the app.
 
 
    ### All Downloads: *(11-30-2024)*
