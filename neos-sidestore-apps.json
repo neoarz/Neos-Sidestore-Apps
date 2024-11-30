@@ -1,38 +1,38 @@
 {
   "name": "Neo's Sidestore Apps",
   "identifier": "com.sidestore.neosapps",
-  "sourceURL": "https://community-apps.sidestore.io/sidecommunity.json",
-  "iconURL": "https://i.imgur.com/JP0Fncv.png",
+  "sourceURL": "https://raw.githubusercontent.com/neoarz/Neos-Sidestore-Apps/refs/heads/main/neos-sidestore-apps.json",
+  "iconURL": "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Icons/Neopfp.png",
   "userinfo": {},
   "apps": [
     {
-      "name": "PPSSPP",
-      "bundleIdentifier": "org.ppsspp.ppsspp",
-      "developerName": "Henrik Rydg\u00e5rd",
-      "version": "1.13.2",
-      "versionDate": "2022-09-18T23:59:49Z",
-      "versionDescription": "# v1.13.2\n\n",
-      "downloadURL": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
-      "localizedDescription": "PPSSPP can run your PSP games on your iPhone and iPad in full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP. Even on modern iPhones and iPads, you can often run at double the original resolution.",
-      "iconURL": "https://i.imgur.com/JP0Fncv.png",
-      "tintColor": "#21486b",
-      "size": 14509458,
+      "name": "Discord",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity Development Team",
+      "version": "254.0",
+      "versionDate": "2024-11-13",
+      "versionDescription": "Enmity - A tweak for Discord",
+      "downloadURL": "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Discord.ipa",
+      "localizedDescription": "Enhance your Discord mobile experience with Enmity, boasting an extensive ecosystem of addons. Access a plethora of plugins and themes to personalize your interface, tailor features to your preferences, and unlock new functionalities seamlessly on the go.",
+      "iconURL": "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Icons/Discord.png",
+      "tintColor": "#6D00FF",
+      "size": 101165891,
       "screenshotURLs": [
-        "https://i.imgur.com/CWl6GgH.png",
-        "https://i.imgur.com/SxmN1M0.png",
-        "https://i.imgur.com/sGWgR6z.png",
-        "https://i.imgur.com/AFKTdmZ.png"
+        "https://enmity-mod.github.io/repo/screenshots_iphone/chat.png",
+        "https://enmity-mod.github.io/repo/screenshots_iphone/plugins.png",
+        "https://enmity-mod.github.io/repo/screenshots_iphone/profile.png",
+        "https://enmity-mod.github.io/repo/screenshots_iphone/settings.png"
       ],
-      "subtitle": "PlayStation Portable games on iOS.",
-      "absoluteVersion": "1.13.2",
-      "appID": "org.ppsspp.ppsspp",
+      "subtitle": "The Power of addons, all in your hand",
+      "absoluteVersion": "254.0",
+      "appID": "com.hammerandchisel.discord",
       "versions": [
         {
-          "version": "1.13.2",
-          "date": "2022-09-18T23:59:49Z",
-          "downloadURL": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
-          "localizedDescription": "# v1.13.2\n\n",
-          "size": 14509458,
+          "version": "254.0",
+          "date": "2024-11-13",
+          "downloadURL": "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Discord.ipa",
+          "localizedDescription": "Update Discord to 254.0",
+          "size": 101165891,
           "absoluteVersion": "1.13.2"
         }
       ]
