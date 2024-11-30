@@ -33,5 +33,6 @@ In addtion, most, if not all apps, are made for higher ios versions **17.0+** du
     | SparseBox | N/A | 1.0 | [https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Sparsebox.ipa](https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Sparsebox.ipa) |
     | Spotify | EeveeSpotify | 5.8.1-8.9.94 | [https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Spotify.ipa](https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Spotify.ipa) |
     | Youtube | uYouPlus | 19.08.2-3.0.3 | [https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/YouTube.ipa](https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/YouTube.ipa) |
+    | Nugget | N/A | 2.0 | [https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Nugget.ipa](https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Nugget.ipa) |
     
   
