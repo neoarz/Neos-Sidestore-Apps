@@ -76,10 +76,23 @@
             border-radius: 8px;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             text-align: center;
+            cursor: pointer;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .file-card:hover {
+            transform: scale(1.05);
+            box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .file-card img {
+            max-width: 60px;
+            margin-bottom: 10px;
+            border-radius: 10px;
         }
 
         .file-card h3 {
-            margin-bottom: 10px;
+            margin: 10px 0;
             font-size: 1.5rem;
         }
 
@@ -88,8 +101,41 @@
             margin-bottom: 15px;
         }
 
-        .btn {
+        /* Modal */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .modal-content {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            width: 90%;
+            max-width: 500px;
+            text-align: center;
+            animation: fadeIn 0.3s ease;
+        }
+
+        .modal h3 {
+            margin-top: 0;
+        }
+
+        .modal p {
+            margin: 10px 0;
+        }
+
+        .modal .btn {
             display: inline-block;
+            margin-top: 20px;
             padding: 10px 20px;
             background: #4a90e2;
             color: white;
@@ -98,8 +144,19 @@
             transition: background 0.3s;
         }
 
-        .btn:hover {
+        .modal .btn:hover {
             background: #3b7fd4;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: scale(0.9);
+            }
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
         }
 
         /* Footer */
@@ -131,58 +188,56 @@
     <main class="main">
         <div class="container">
             <h2>Available Apps</h2>
-            <div class="file-grid">
-   
-                <div class="file-card" data-title="File 1">
+            <div class="file-grid" id="fileGrid">
+                <div class="file-card" onclick="showPreview('Discord', 'Enmity', '254.0', 'Enmity Development Team', 'https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Discord.ipa')">
+                    <img src="https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Icons/Discord.png" alt="Discord Icon">
                     <h3>Discord</h3>
                     <p>Enmity</p>
-                    <a href="https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Discord.ipa" download class="btn">Download</a>
                 </div>
-            
-                <div class="file-card" data-title="File 2">
+                <div class="file-card" onclick="showPreview('ESign', 'N/A', '5.0.2', 'u/Sharp_Listen3436 & yyy', 'https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/ESign.ipa')">
+                    <img src="https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Icons/Esign.png" alt="ESign Icon">
                     <h3>ESign</h3>
                     <p>N/A</p>
-                    <a href="https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/ESign.ipa" download class="btn">Download</a>
                 </div>
-               
-                <div class="file-card" data-title="File 3">
+                <div class="file-card" onclick="showPreview('Feather', 'N/A', '1.1.3', 'Samara', 'https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Feather.ipa')">
+                    <img src="https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Icons/Feather.png" alt="Feather Icon">
                     <h3>Feather</h3>
                     <p>N/A</p>
-                    <a href="https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Feather.ipa" download class="btn">Download</a>
                 </div>
-            
-                <div class="file-card" data-title="File 4">
+                <div class="file-card" onclick="showPreview('Instagram', 'Rocket Cracked', '344.0.9', 'Meta', 'https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Instagram.ipa')">
+                    <img src="https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Icons/Instagram.png" alt="Instagram Icon">
                     <h3>Instagram</h3>
                     <p>Rocket Cracked</p>
-                    <a href="https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Instagram.ipa" download class="btn">Download</a>
                 </div>
-               
-                <div class="file-card" data-title="File 5">
+                <div class="file-card" onclick="showPreview('Sparsebox', 'On device Toolbox', '1.0', 'khanhduytran0', 'https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Sparsebox.ipa')">
+                    <img src="https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Icons/Sparsebox.png" alt="Sparsebox Icon">
                     <h3>Sparsebox</h3>
                     <p>On device Toolbox</p>
-                    <a href="https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Sparsebox.ipa" download class="btn">Download</a>
                 </div>
-             
-                <div class="file-card" data-title="File 6">
+                <div class="file-card" onclick="showPreview('Spotify', 'Eevee Spotify', '8.9.94', 'whoeevee', 'https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Spotify.ipa')">
+                    <img src="https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Icons/Spotify.png" alt="Spotify Icon">
                     <h3>Spotify</h3>
                     <p>Eevee Spotify</p>
-                    <a href="https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Spotify.ipa" download class="btn">Download</a>
                 </div>
-             
-                <div class="file-card" data-title="File 7">
-                    <h3>Youtube</h3>
+                <div class="file-card" onclick="showPreview('YouTube', 'uYou+', '19.08.2-3.0.3', 'MiRO92', 'https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/YouTube.ipa')">
+                    <img src="https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Icons/Youtube.png" alt="YouTube Icon">
+                    <h3>YouTube</h3>
                     <p>uyouplus</p>
-                    <a href="https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/YouTube.ipa" download class="btn">Download</a>
-                </div>
-            
-                <div class="file-card" data-title="File 8">
-                    <h3>Coming Soon!</h3>
-                    <p></p>
-                    <a href="" download class="btn">Download</a>
                 </div>
             </div>
         </div>
     </main>
+
+    <!-- Modal -->
+    <div class="modal" id="previewModal" onclick="closeModal(event)">
+        <div class="modal-content" onclick="event.stopPropagation()">
+            <h3 id="modalTitle">File Name</h3>
+            <p id="modalDescription">Description</p>
+            <p id="modalVersion">Version: 1.0</p>
+            <p id="modalCreator">Creator: John Doe</p>
+            <a id="downloadLink" href="#" class="btn" download>Download</a>
+        </div>
+    </div>
 
     <!-- Footer Section -->
     <footer class="footer">
@@ -198,13 +253,30 @@
             const fileCards = document.querySelectorAll('.file-card');
 
             fileCards.forEach(card => {
-                const title = card.getAttribute('data-title').toLowerCase();
+                const title = card.querySelector('h3').textContent.toLowerCase();
                 if (title.includes(query)) {
                     card.style.display = 'block'; // Show card
                 } else {
                     card.style.display = 'none'; // Hide card
                 }
             });
+        }
+
+        // Show modal preview
+        function showPreview(title, description, version, creator, downloadLink) {
+            document.getElementById('modalTitle').innerText = title;
+            document.getElementById('modalDescription').innerText = description;
+            document.getElementById('modalVersion').innerText = 'Version: ' + version;
+            document.getElementById('modalCreator').innerText = 'Creator: ' + creator;
+            document.getElementById('downloadLink').href = downloadLink;
+            document.getElementById('previewModal').style.display = 'flex';
+        }
+
+        // Close modal
+        function closeModal(event) {
+            if (event.target === document.getElementById('previewModal')) {
+                document.getElementById('previewModal').style.display = 'none';
+            }
         }
     </script>
 </body>
