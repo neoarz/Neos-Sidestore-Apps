@@ -4,7 +4,7 @@
     
 ---
 
-*Big thanks to Meka who inspired me to make this app list. It was originally designed to be a repo, but I wanted to have these apps out for you guys to use. I will personally update this list and add apps when possible maybe even from your requests.* 
+*Big thanks to Meka who inspired me to make this app list. It was originally designed to be a repo, but I wanted to have these apps out for you guys to use. I will personally update this list and add apps when possible, maybe even from your requests.* 
 
 *A repo will come soon I'm still working on it*
 
@@ -21,7 +21,7 @@
 - **Disclaimer:** Some apps may be in a lower version than the current app store version due to technical issues. An example of this is **Instagram**, which is on a lower version due to the newer versions having a bug where you would get logged out everytime you close the app.
 
 
-   ### All Downloads: *(11-29-2024)*
+   ### All Downloads: *(11-30-2024)*
    
     | App Name | Name of Tweak | Version |Download Link |
     |:------------------|---------------|------------|----------|
