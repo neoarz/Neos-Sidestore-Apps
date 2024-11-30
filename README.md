@@ -1,4 +1,4 @@
-<h1 align="center">Neo's-Apps</h1>
+<h1 align="center">Neo's-Sidestore-Apps</h1>
 
 <p align="center"><strong>My personal collection of the best apps, for sideloading!</strong></p>
     
