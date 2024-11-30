@@ -8,7 +8,8 @@
 
 *A repo will come soon I'm still working on it*
 
-*These apps are specifically tailored for the use of [Altstore](https://altstore.io) and [Sidestore](https://sidestore.io) in mind (<u>They can still be used with other sideloading methods as well</u>). As a former free developer account user of SideStore, I know the pain in having apps take up all AppIDs. In result of this I have removed all extra plugins for these apps; each app will only take up **ONE** AppID.*
+*These apps are specifically tailored for the use of [Altstore](https://altstore.io) and [Sidestore](https://sidestore.io) in mind (<u>They can still be used with other sideloading methods as well</u>). As a former free developer account user of SideStore, I know the pain in having apps take up all AppIDs. In result of this I have removed all extra plugins for these apps; each app will only take up **ONE** AppID.
+In addtion most if not all apps are made for higher ios version **17.0+** due to the fact that ios versions below have Trollstore/Jailbreak*
 
 *Big thanks to **swaggyP36000/TrollStore-IPAs** for giving me inspiration of the layout of this repo.*
 
