@@ -103,221 +103,31 @@
     },
       
     {
-      "bundleIdentifier": "app.ish.iSH",
-      "name": "iSH",
-      "developerName": "Theodore Dubois and contributors",
-      "iconURL": "https://ish.app/assets/icon-full.png",
-      "tintColor": "000000",
-      "subtitle": "Linux shell for iOS",
-      "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
+      "bundleIdentifier": "com.burbn.instagram",
+      "name": "Instagram Rocket",
+      "developerName": "Meta",
+      "iconURL": "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Icons/Instagram.png",
+      "tintColor": "#FF69B4",
+      "subtitle": "Instagram with Rocket Cracked!",
+      "localizedDescription": "Rocket for Instagram is a lightweight, and all-in-one tweak crafted to enhance and unlock Instagram's full potential for users. You can do many things that you can't do before on Instagram with this tweak, including ability to stalk person that you love without them knowing!",
       "screenshotURLs": [
-        "https://ish.app/assets/front-iphone-full.png",
-        "https://user-images.githubusercontent.com/64176728/216813647-1f660131-b5fe-4951-b46b-44fcfad0c2f2.png"
+        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Instagram1.PNG",
+        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Instagram2.PNG",
+        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Instagram3.PNG"
       ],
-      "version": "iSH 1.3 (build 482)",
-      "versionDate": "2023-04-23T04:37:22+00:00",
-      "versionDescription": "New stuff:\r\n- iSH now supports custom themes\r\n- Preferences are now exposed via procfs\r\n- Some more app icon choices\r\n- Hyperlinks created by OSC 8 are underlined instead of invisible\r\n\r\nFixed bugs:\r\n- Forward SO_RCVTIMEO, SO_SNDTIMEO in setsockopts to support snac\r\n- Add about four dozen SIMD instructions to improve support for nodejs and Rust\r\n- Fix bottom keyboard inset for iPad, Stage Manager, and devices with no home button\r\n- Implement /proc/pid/task to fix recent versions of GDB\r\n- Fix VoiceOver focus stealing keyboard focus on iOS 15+\r\n- Resolve an issue with xadd causing git clones to hang\r\n- Trigger segfault on unaligned cmpxchg8b, which iSH does not support\r\n- Fix a race condition that causes some output to be lost\r\n- Fix toolbar button sizing",
-      "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/482/iSH.ipa",
-      "size": 4183791,
+      "subtitle": "Instagram with Rocket Cracked",
+      "absoluteVersion": "344.0.9",
+      "appID": "com.burbn.instagram",
       "versions": [
         {
-          "version": "iSH 1.3 (build 482)",
-          "date": "2023-04-23T04:37:22+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/482/iSH.ipa",
-          "localizedDescription": "New stuff:\r\n- iSH now supports custom themes\r\n- Preferences are now exposed via procfs\r\n- Some more app icon choices\r\n- Hyperlinks created by OSC 8 are underlined instead of invisible\r\n\r\nFixed bugs:\r\n- Forward SO_RCVTIMEO, SO_SNDTIMEO in setsockopts to support snac\r\n- Add about four dozen SIMD instructions to improve support for nodejs and Rust\r\n- Fix bottom keyboard inset for iPad, Stage Manager, and devices with no home button\r\n- Implement /proc/pid/task to fix recent versions of GDB\r\n- Fix VoiceOver focus stealing keyboard focus on iOS 15+\r\n- Resolve an issue with xadd causing git clones to hang\r\n- Trigger segfault on unaligned cmpxchg8b, which iSH does not support\r\n- Fix a race condition that causes some output to be lost\r\n- Fix toolbar button sizing",
-          "size": 4183791
-        },
-        {
-          "version": "Build 484",
-          "date": "2023-04-23T10:05:03+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/484/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4225426
-        },
-        {
-          "version": "Build 483",
-          "date": "2023-04-23T06:07:57+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/483/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4225981
-        },
-        {
-          "version": "Build 482",
-          "date": "2023-04-23T04:37:22+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/482/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183791
-        },
-        {
-          "version": "Build 481",
-          "date": "2023-04-22T06:08:01+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/481/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183616
-        },
-        {
-          "version": "Build 480",
-          "date": "2023-04-21T06:08:02+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/480/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183618
-        },
-        {
-          "version": "Build 479",
-          "date": "2023-04-19T06:08:28+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/479/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183615
-        },
-        {
-          "version": "Build 478",
-          "date": "2023-04-14T06:08:22+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/478/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183062
-        },
-        {
-          "version": "Build 477",
-          "date": "2023-04-10T06:09:44+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/477/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183084
-        },
-        {
-          "version": "Build 476",
-          "date": "2023-04-07T06:08:10+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/476/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183193
-        },
-        {
-          "version": "Build 475",
-          "date": "2023-04-06T06:07:21+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/475/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183183
-        },
-        {
-          "version": "Build 474",
-          "date": "2023-04-01T06:07:15+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/474/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183196
-        },
-        {
-          "version": "Build 473",
-          "date": "2023-03-31T06:07:35+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/473/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183189
-        },
-        {
-          "version": "Build 472",
-          "date": "2023-03-30T06:07:34+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/472/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183201
-        },
-        {
-          "version": "Build 471",
-          "date": "2023-03-29T06:07:32+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/471/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183199
-        },
-        {
-          "version": "Build 470",
-          "date": "2023-03-27T06:07:58+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/470/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183201
-        },
-        {
-          "version": "Build 469",
-          "date": "2023-03-26T06:06:51+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/469/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183205
-        },
-        {
-          "version": "Build 468",
-          "date": "2023-03-25T06:07:28+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/468/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183183
-        },
-        {
-          "version": "Build 467",
-          "date": "2023-03-24T06:10:23+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/467/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183196
-        },
-        {
-          "version": "Build 466",
-          "date": "2023-03-23T06:07:10+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/466/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183189
-        },
-        {
-          "version": "Build 465",
-          "date": "2023-03-18T06:07:18+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/465/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183185
-        },
-        {
-          "version": "Build 454",
-          "date": "2023-02-16T06:07:30+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/454/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183985
-        },
-        {
-          "version": "Build 452",
-          "date": "2023-02-14T06:07:48+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/452/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183981
-        },
-        {
-          "version": "Build 451",
-          "date": "2023-02-12T06:07:00+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/451/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4177809
-        },
-        {
-          "version": "Build 450",
-          "date": "2023-02-11T06:06:55+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/450/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4177826
-        },
-        {
-          "version": "Build 449",
-          "date": "2023-02-10T06:27:51+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/449/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4177822
-        },
-        {
-          "version": "Build 448",
-          "date": "2023-02-08T06:25:45+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/448/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4177813
-        },
-        {
-          "version": "Build 447",
-          "date": "2023-02-03T06:07:41+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/447/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4177818
+          "version": "344.0.9",
+          "date": "2024-8-25",
+          "downloadURL": "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Instgram.ipa",
+          "localizedDescription": "Update Instagram to 344.0.9",
+          "size": 193929216,
+          "absoluteVersion": "344.0.9"
         }
-      ],
-      "appID": "app.ish.iSH"
+      ]
     },
     {
       "name": "iNDS",
