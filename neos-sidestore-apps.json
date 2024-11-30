@@ -79,7 +79,7 @@
       "downloadURL": "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Feather.ipa",
       "localizedDescription": "Feather is a free on-device iOS application manager/installer, using certificates part of the Apple Developer Program",
       "iconURL": "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Icons/Feather.png",
-      "tintColor": "#ec7699",
+      "tintColor": "#947698",
       "size": 12496896,
       "screenshotURLs": [
         "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Feather1.png",
