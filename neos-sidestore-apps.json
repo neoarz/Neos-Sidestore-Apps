@@ -103,29 +103,35 @@
     },
       
     {
-      "bundleIdentifier": "com.burbn.instagram",
-      "name": "Instagram Rocket",
-      "developerName": "Meta",
-      "iconURL": "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Icons/Instagram.png",
-      "tintColor": "#FF69B4",
-      "subtitle": "Instagram with Rocket Cracked!",
-      "localizedDescription": "Rocket for Instagram is a lightweight, and all-in-one tweak crafted to enhance and unlock Instagram's full potential for users. You can do many things that you can't do before on Instagram with this tweak, including ability to stalk person that you love without them knowing!",
+      "name": "Feather",
+      "bundleIdentifier": "kh.crysalis.feather",
+      "developerName": "Samara",
+      "subtitle": "Sideloading Made Easy",
+      "version": "1.1.3",
+      "versionDate": "2024-11-02",
+      "versionDescription": "Fix incorrect handling of default options",
+      "downloadURL": "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Feather.ipa",
+      "localizedDescription": "Feather is a free on-device iOS application manager/installer, using certificates part of the Apple Developer Program",
+      "iconURL": "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Icons/Feather.png",
+      "tintColor": "#947698",
+      "size": 12496896,
       "screenshotURLs": [
-        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Instagram1.PNG",
-        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Instagram2.PNG",
-        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Instagram3.PNG"
+        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Feather1.png",
+        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Feather2.png",
+        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Feather3.png",
+        "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/Screenshots/Feather4.png"
       ],
-      "subtitle": "Instagram with Rocket Cracked",
-      "absoluteVersion": "344.0.9",
-      "appID": "com.burbn.instagram",
+      "subtitle": "Sideloading Made Easy",
+      "absoluteVersion": "1.1.3",
+      "appID": "kh.crysalis.feather",
       "versions": [
         {
-          "version": "344.0.9",
-          "date": "2024-8-25",
-          "downloadURL": "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Instgram.ipa",
-          "localizedDescription": "Update Instagram to 344.0.9",
-          "size": 193929216,
-          "absoluteVersion": "344.0.9"
+          "version": "1.1.3",
+          "date": "2024-11-02",
+          "downloadURL": "https://github.com/neoarz/Neos-Sidestore-Apps/raw/main/assets/Feather.ipa",
+          "localizedDescription": "Update Feather to 1.1.3",
+          "size": 12496896,
+          "absoluteVersion": "1.1.3"
         }
       ]
     },
