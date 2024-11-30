@@ -21,10 +21,10 @@
 
    ### All Downloads: *(11-29-2024)*
    
-    | App Name | Download Link |
-    |:------------------|-------------------------------------|
-    | Discord | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Discord.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Discord.ipa) |
-    | E-sign | [https://github.com/neoarz/Neos-Apps/raw/main/assets/ESign.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/ESign.ipa) |
+    | App Name | Name of Tweak | Version |Download Link |
+    |:------------------|---------------|----------------------|
+    | Discord | Enmity | 254.0 |[https://github.com/neoarz/Neos-Apps/raw/main/assets/Discord.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Discord.ipa) |
+    | E-sign | N/A | 5.0.2| [https://github.com/neoarz/Neos-Apps/raw/main/assets/ESign.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/ESign.ipa) |
     | Feather | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Feather.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Feather.ipa) |
     | Instagram | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Instgram.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Instgram.ipa) |
     | SparseBox | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Sparsebox.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Sparsebox.ipa) |
