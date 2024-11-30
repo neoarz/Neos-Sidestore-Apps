@@ -4,11 +4,11 @@
 
 ---
 
-*Big thanks to Meka who inspired me to make this app list. It was originally designed to be a repo, but I wanted to have these apps out for you guys to use. I will personally update this repo and add apps when possible maybe even from your requests.* 
+*Big thanks to Meka who inspired me to make this app list. It was originally designed to be a repo, but I wanted to have these apps out for you guys to use. I will personally update this list and add apps when possible maybe even from your requests.* 
 
 *A repo will come soon I'm still working on it*
 
-*These apps are specifically tailored for the use of [Altstore](https://altstore.io) and [Sidestore](https://sidestore.io) in mind. As a former free developer account user of SideStore, I know the pain in having apps take up all AppIDs. In result of this I have removed all extra plugins for these apps; each app will only take up **ONE** AppID*
+*These apps are specifically tailored for the use of [Altstore](https://altstore.io) and [Sidestore](https://sidestore.io) in mind (They can still be used with other sideloading methods as well). As a former free developer account user of SideStore, I know the pain in having apps take up all AppIDs. In result of this I have removed all extra plugins for these apps; each app will only take up **ONE** AppID*
 
 *Big thanks to **swaggyP36000/TrollStore-IPAs** for giving me inspiration of the layout of this repo*
 
