@@ -12,7 +12,6 @@
 
 *Big thanks to **swaggyP36000/TrollStore-IPAs** for giving me inspiration of the layout of this repo*
 
----
 
 ## Additional Information
 - **Credit to the Respective Owner/Contributor:** Needless to say, the hard work invested by the respective maintainers is very important and, not to be neglected, all the IPAs that I have are updated at a location in one central collection with much respect toward their creators-first and foremost. The credit is very much needed and stands upfront since they reflect the commitment of that particular individual in their works.
