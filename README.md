@@ -24,6 +24,11 @@
     | App Name | Name of Tweak | Version |Download Link |
     |:------------------|---------------|------------|----------|
     | Discord | Enmity | 254.0 |[https://github.com/neoarz/Neos-Apps/raw/main/assets/Discord.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Discord.ipa) |
-    | E-sign | N/A | 5.0.2| [https://github.com/neoarz/Neos-Apps/raw/main/assets/ESign.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/ESign.ipa) |
+    | E-sign | N/A | 5.0.2 | [https://github.com/neoarz/Neos-Apps/raw/main/assets/ESign.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/ESign.ipa) |
+    | Feather | N/A | 1.1.3 | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Feather.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Feather.ipa) |
+    | Instagram | Rocket Cracked | 344.0.9 | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Instgram.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Instgram.ipa) |
+    | SparseBox | N/A | 1.0 | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Sparsebox.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Sparsebox.ipa) |
+    | Spotify | EeveeSpotify | 5.8.1-8.9.94 | [https://github.com/neoarz/Neos-Apps/raw/main/assets/Spotify.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/Spotify.ipa) |
+    | Youtube | uYouPlus | 19.08.2-3.0.3 | [https://github.com/neoarz/Neos-Apps/raw/main/assets/YouTube.ipa](https://github.com/neoarz/Neos-Apps/raw/main/assets/YouTube.ipa) |
     
   
