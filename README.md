@@ -1,11 +1,7 @@
 <h1 align="center">Neo's-Sidestore-Apps</h1>
 
 <p align="center"><strong>My personal collection of the best apps, for sideloading!</strong></p>
-
-[![pages-build-deployment](https://github.com/SideStore/Community-Source/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SideStore/Community-Source/actions/workflows/pages/pages-build-deployment)
-[![Update sources](https://github.com/SideStore/Community-Source/actions/workflows/update.yml/badge.svg)](https://github.com/SideStore/Community-Source/actions/workflows/update.yml)
-
-    
+  
 ---
 
 *Big thanks to Meka who inspired me to make this app list. It was originally designed to be a repo, but I wanted to have these apps out for you guys to use. I will personally update this list and add apps when possible, maybe even from your requests* 
