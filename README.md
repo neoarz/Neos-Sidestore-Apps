@@ -2,9 +2,10 @@
 
 <p align="center"><strong>My personal collection of the best apps, for sideloading!</strong></p>
 
-![GitHub License](https://img.shields.io/github/license/neoarz/Neos-Sidestore-Apps) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+![GitHub License](https://img.shields.io/github/license/neoarz/Neos-Sidestore-Apps) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/nnneoarz)
 
-![Alt](https://repobeats.axiom.co/api/embed/b4885a98863e008664e9d2a86a1f503e397df8ff.svg "Repobeats analytics image") ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/nnneoarz)
+
+![Alt](https://repobeats.axiom.co/api/embed/b4885a98863e008664e9d2a86a1f503e397df8ff.svg "Repobeats analytics image")
 
   
 ---
