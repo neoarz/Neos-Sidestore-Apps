@@ -5,7 +5,6 @@
 [![pages-build-deployment](https://github.com/SideStore/Community-Source/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SideStore/Community-Source/actions/workflows/pages/pages-build-deployment)
 [![Update sources](https://github.com/SideStore/Community-Source/actions/workflows/update.yml/badge.svg)](https://github.com/SideStore/Community-Source/actions/workflows/update.yml)
 
-![Alt](https://repobeats.axiom.co/api/embed/e1a029ce7e1349bab2a4465d905a236e5fe642df.svg "Repobeats analytics image")
     
 ---
 
