@@ -2,7 +2,7 @@
 
 <p align="center"><strong>My personal collection of the best apps, for sideloading!</strong></p>
 
-[GitHub License](https://img.shields.io/github/license/neoarz/Neos-Sidestore-Apps) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fneoarz.github.io%2FNeos-Sidestore-Apps%2F)</strong></p>
+![GitHub License](https://img.shields.io/github/license/neoarz/Neos-Sidestore-Apps)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fneoarz.github.io%2FNeos-Sidestore-Apps%2F)</strong></p>
 
 
 
