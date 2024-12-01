@@ -1,6 +1,8 @@
 <h1 align="center">Neo's-Sidestore-Apps</h1>
 
 <p align="center"><strong>My personal collection of the best apps, for sideloading!</strong></p>
+
+![Alt](https://repobeats.axiom.co/api/embed/b4885a98863e008664e9d2a86a1f503e397df8ff.svg "Repobeats analytics image")
   
 ---
 
