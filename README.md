@@ -11,12 +11,13 @@
   </a>
   <a href="https://neoarz.github.io/Neos-Sidestore-Apps/">
     <img src="https://img.shields.io/website?url=https%3A%2F%2Fneoarz.github.io%2FNeos-Sidestore-Apps%2F" alt="Website" />
+    
   </a>
 </div>
 
-<p align="center">
+
   <img src="https://repobeats.axiom.co/api/embed/b4885a98863e008664e9d2a86a1f503e397df8ff.svg" alt="Repobeats analytics image" title="Repobeats analytics image" />
-</p>
+
 
 ---
 
