@@ -4,24 +4,19 @@
 
 <div align="center">
   <a href="https://github.com/neoarz/Neos-Sidestore-Apps/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/neoarz/Neos-Sidestore-Apps" alt="GitHub License" />
+    <img src="https://img.shields.io/github/license/neoarz/Neos-Sidestore-Apps" alt="GitHub License"   />
   </a>
-  <a href="https://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" />
+  <a   href="https://makeapullrequest.com">
+    <  img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" />
   </a>
   <a href="https://neoarz.github.io/Neos-Sidestore-Apps/">
     <img src="https://img.shields.io/website?url=https%3A%2F%2Fneoarz.github.io%2FNeos-Sidestore-Apps%2F" alt="Website" />
-    
   </a>
 </div>
 
-
+<p align="center">
   <img src="https://repobeats.axiom.co/api/embed/b4885a98863e008664e9d2a86a1f503e397df8ff.svg" alt="Repobeats analytics image" title="Repobeats analytics image" />
-
-
----
-
-
+</p>
   
 ---
 
