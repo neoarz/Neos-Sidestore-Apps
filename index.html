@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Neo's Sidestore Apps</title>
     <style>
-        /* General Styles */
+
         body {
             margin: 0;
             font-family: Arial, sans-serif;
@@ -20,7 +20,7 @@
             padding: 20px;
         }
 
-        /* Header */
+
         .header {
             background: linear-gradient(135deg, #4a90e2, #9013fe);
             color: white;
@@ -51,7 +51,6 @@
             margin-right: auto;
         }
 
-        /* Main */
         .main {
             padding: 40px 0;
         }
@@ -101,7 +100,7 @@
             margin-bottom: 15px;
         }
 
-        /* Modal */
+  
         .modal {
             display: none;
             position: fixed;
@@ -159,7 +158,7 @@
             }
         }
 
-        /* Footer */
+ 
         .footer {
             background: #333;
             color: white;
@@ -174,7 +173,7 @@
     </style>
 </head>
 <body>
-    <!-- Header Section -->
+
     <header class="header">
         <div class="container">
             <h1>Neo's Sidestore Apps</h1>
@@ -184,7 +183,6 @@
         </div>
     </header>
 
-    <!-- Main Content Section -->
     <main class="main">
         <div class="container">
             <h2>Available Apps</h2>
@@ -233,7 +231,7 @@
         </div>
     </main>
 
-    <!-- Modal -->
+   
     <div class="modal" id="previewModal" onclick="closeModal(event)">
         <div class="modal-content" onclick="event.stopPropagation()">
             <h3 id="modalTitle">File Name</h3>
@@ -244,7 +242,7 @@
         </div>
     </div>
 
-    <!-- Footer Section -->
+
     <footer class="footer">
         <div class="container">
             <p>&copy; 2024 Neo's Sidestore Apps. All Rights Reserved.</p>
@@ -252,7 +250,7 @@
     </footer>
 
     <script>
-        // Function to filter files based on the search input
+ 
         function searchFiles() {
             const query = document.getElementById('searchBar').value.toLowerCase();
             const fileCards = document.querySelectorAll('.file-card');
@@ -260,14 +258,13 @@
             fileCards.forEach(card => {
                 const title = card.querySelector('h3').textContent.toLowerCase();
                 if (title.includes(query)) {
-                    card.style.display = 'block'; // Show card
+                    card.style.display = 'block';
                 } else {
-                    card.style.display = 'none'; // Hide card
+                    card.style.display = 'none';
                 }
             });
         }
 
-        // Show modal preview
         function showPreview(title, description, version, creator, downloadLink) {
             document.getElementById('modalTitle').innerText = title;
             document.getElementById('modalDescription').innerText = description;
@@ -277,7 +274,7 @@
             document.getElementById('previewModal').style.display = 'flex';
         }
 
-        // Close modal
+     
         function closeModal(event) {
             if (event.target === document.getElementById('previewModal')) {
                 document.getElementById('previewModal').style.display = 'none';
